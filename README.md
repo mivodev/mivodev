@@ -11,7 +11,7 @@
   <br />
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,composer,vue,docker,linux,git,github,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=php,vue,docker,linux,git,github,vscode&theme=dark" />
   </a>
 
   <br />
